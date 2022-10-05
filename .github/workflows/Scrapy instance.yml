@@ -1,4 +1,4 @@
-name: Run Scrapy
+name: Run Scrapy test
 
 on:
   push:
